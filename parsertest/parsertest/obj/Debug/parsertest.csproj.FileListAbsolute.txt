@@ -1,0 +1,13 @@
+D:\cs\workspace\C#\parsertest\parsertest\parsertest\bin\Debug\parsertest.exe.config
+D:\cs\workspace\C#\parsertest\parsertest\parsertest\bin\Debug\parsertest.exe
+D:\cs\workspace\C#\parsertest\parsertest\parsertest\bin\Debug\parsertest.pdb
+D:\cs\workspace\C#\parsertest\parsertest\parsertest\obj\Debug\parsertest.csprojResolveAssemblyReference.cache
+D:\cs\workspace\C#\parsertest\parsertest\parsertest\obj\Debug\parsertest.Form1.resources
+D:\cs\workspace\C#\parsertest\parsertest\parsertest\obj\Debug\parsertest.Properties.Resources.resources
+D:\cs\workspace\C#\parsertest\parsertest\parsertest\obj\Debug\parsertest.csproj.GenerateResource.Cache
+D:\cs\workspace\C#\parsertest\parsertest\parsertest\obj\Debug\parsertest.exe
+D:\cs\workspace\C#\parsertest\parsertest\parsertest\obj\Debug\parsertest.pdb
+D:\cs\workspace\C#\parsertest\parsertest\parsertest\bin\Debug\MySql.Data.dll
+D:\cs\workspace\C#\parsertest\parsertest\parsertest\bin\Debug\System.Data.SQLite.dll
+D:\cs\workspace\C#\parsertest\parsertest\parsertest\bin\Debug\MySql.Data.xml
+D:\cs\workspace\C#\parsertest\parsertest\parsertest\bin\Debug\System.Data.SQLite.pdb
